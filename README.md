@@ -6,14 +6,14 @@ Nice to see you virtually. Are you looking for Kubernetes Exams Review? If yes, 
 
 I have been certified with CKAD last 3 months. So, in my mind theory and concepts, related to Kubernetes are still fresh. 
 
-## *Learning resources* ##
+## Learning resources ##
 
 Firstly, I study CKA with Mumshad Mammanbeth's course and practice it. I want to mention again that [Mumshad's](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/) course is great in presentation. If you study with another good teacher, you are also in right place. Whatever you learn from whom, well understanding is the important thing. And I have some experience or challenges with Kubernetes. That is [CKA-Challange](https://github.com/thawzinmyo/The-Hackathon-Challenge-DevOps) held by KodeKloud last May,2022. I participated in that challenge. And I won the CKA Exam Voucher. So now, that exam is sponsored by KodeKloud, you can say that. Thank you so much for that, KodeKloud Team. 
 
 In the Challenge, I was tested Deployment, Image Security with trivy and AppAmor, Persistent Volume, Persistent Volume Claim, Network Policies and api pod health and its service ( my favorite ones ), etc.
 So, I got some hands-on experience with that and I am also a member of KodeKloud Engineer, now tasks are postponed in DevOps Architect Role, still exciting to practice it.
 
-## *Self-Studying vs Work* ##
+## Self-Studying vs Work ##
 
 After I studied and sit CKAD exam, I got a new job. Studying at work is not quick before being jobless. Because Work is more important than private study. So, I studied for 1 hour per day for CKA.
 I hope that you already know that feeling. So, if you are working, prepare for time management between Work and Private Study. 
